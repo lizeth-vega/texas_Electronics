@@ -32,6 +32,18 @@
   background-color: burlywood !important;
   color: white;
 }
+.nice-select .list li[data-value="violeta"] {
+  background-color: purple !important;
+  color: white;
+}
+.nice-select .list li[data-value="gris"] {
+  background-color: gray !important;
+  color: white;
+}
+.nice-select .list li[data-value="blanco"] {
+  background-color: white !important;
+  color: black;
+}
 
 .nice-select .list:hover .option:not(:hover) {
   background-color: #ccc !important;
