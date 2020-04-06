@@ -1,0 +1,72 @@
+.nice-select .list li[data-value="rojo"] {
+  background-color: red !important;
+  color: white;
+}
+
+.nice-select .list li[data-value="negro"] {
+  background-color: black !important;
+  color: white;
+}
+
+.nice-select .list li[data-value="amarillo"] {
+  background-color: yellow !important;
+  color: black;
+}
+
+.nice-select .list li[data-value="verde"] {
+  background-color: green !important;
+  color: white;
+}
+
+.nice-select .list li[data-value="naranja"] {
+  background-color: orangered !important;
+  color: white;
+}
+
+.nice-select .list li[data-value="azul"] {
+  background-color: blue !important;
+  color: white;
+}
+
+.nice-select .list li[data-value="cafe"] {
+  background-color: burlywood !important;
+  color: white;
+}
+
+.nice-select .list:hover .option:not(:hover) {
+  background-color: #ccc !important;
+  color: black;
+}
+
+.form-control {
+  padding: 0 20px;
+}
+
+.card-header {
+  background-color: #98C1D9;
+}
+
+.card {
+  margin-bottom: 28.5%;
+}
+
+section {
+  padding: 1%;
+}
+
+footer {
+  background-color: #98C1D9;
+  height: 50%;
+  color: black;
+  padding: 15px;
+}
+
+.main1 {
+  display: flex;
+  margin: 0 auto;
+}
+
+.text-muted {
+  color: black !important;
+  text-align: center;
+}
